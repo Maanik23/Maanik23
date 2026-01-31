@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Maanik Garg 👋
-### AI Engineer | Autonomous Agents & RAG Architecture
+### AI Engineer | Data Scientist
 
-I move AI beyond simple prompts. I specialize in architecting **stateful, multi-agent ecosystems** and **production-grade RAG pipelines** that solve complex business logic with high reliability.
+I build **autonomous agent systems** and **full-stack AI applications**. My focus is on bridging complex Data Science with production-grade engineering using modern MLOps practices.
 
 [LinkedIn](https://www.linkedin.com/in/maanik-garg) • [Email](mailto:maanik.p.garg@gmail.com)
 
@@ -11,36 +11,36 @@ I move AI beyond simple prompts. I specialize in architecting **stateful, multi-
 
 </div>
 
-### 🚀 **Current Focus: Agentic Orchestration**
-I am currently engineering autonomous workflows that reduce human operational load. My work focuses on the intersection of **reasoning capability** and **token efficiency**.
-
-* **Multi-Agent Systems:** Building cyclic control flows using **LangGraph** where agents plan, critique, and execute tasks autonomously.
-* **Production LLMs:** Orchestrating **Claude 4.5 Sonnet** and **Gemini 2.5 Pro** via FastAPI for high-speed, reasoning-heavy workloads.
-* **Guardrails:** Implementing **Vertex AI** safety layers and semantic caching (Redis) to ensure deterministic and cost-effective outputs.
-
----
-
 ### 🛠️ **Tech Stack**
 
-**Core AI & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Production-blue)
-![LangChain](https://img.shields.io/badge/LangChain-Integration-green)
-![Gemini](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+**Artificial Intelligence & Agents**
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-blue)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi_Agent-orange)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-yellow)
+![Vector DB](https://img.shields.io/badge/Vector_DB-PGVector-purple)
 
-**Infrastructure & Ops**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Caching-red)
+**Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-Modeling-F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboarding-FF4B4B)
+
+**Full Stack & Web**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-2088FF)
+![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🔭 **Exploring**
-* **AISec (AI Security):** Researching adversarial defense strategies and *Secure-by-Design* principles for RAG pipelines.
-* **Prompt Injection Defense:** Implementing OWASP Top 10 standards for LLM applications.
-
 <div align="center">
-<br>
-<i>"Optimizing the trade-off between Agentic Reasoning and Latency."</i>
+<i>"Transforming data into intelligent, automated outcomes."</i>
 </div>
