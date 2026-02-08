@@ -3,7 +3,7 @@
 # Hi, I'm Maanik Garg 👋
 ### AI Engineer | Data Scientist
 
-I build **autonomous agent systems** and **full-stack AI applications**. My focus is on bridging complex Data Science with production-grade engineering using modern MLOps practices.
+I build **autonomous agent systems** and **full-stack AI applications**. My focus is on bridging complex Data Science with production grade engineering using modern MLOps practices.
 
 [LinkedIn](https://www.linkedin.com/in/maanik-garg) • [Email](mailto:maanik.p.garg@gmail.com)
 
